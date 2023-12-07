@@ -1,6 +1,6 @@
 # Palm Bot Chat
 
-An AI chat bot Flutter application with data caching using Google's PaLM API (Beta).
+An AI chat bot 🤖 Flutter application with data caching using Google's PaLM API (Beta).
 
 ## Screenshots
 
