@@ -16,7 +16,7 @@ Before testing the application, make sure you obtain an API key by following the
 
 | Name                                                                | Usage              |
 |---------------------------------------------------------------------|--------------------|
-| [**Provider**](https://pub.dev/packages/dio)                        | State Management   |
+| [**Provider**]([https://pub.dev/packages/provider])                        | State Management   |
 | [**Share Preference**](https://pub.dev/packages/shared_preferences) | Persistent storage |
 | [**Flutter Svg**](https://pub.dev/packages/flutter_svg)             | Draw SVG files     |
 | [**DIO**](https://pub.dev/packages/dio)                             | Network calls      |
