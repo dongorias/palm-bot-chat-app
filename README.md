@@ -28,7 +28,7 @@ Before testing the application, make sure you obtain an API key by following the
 ```shell
 git clone https://github.com/dongorias/palm-bot-chat-app.git
 flutter clean
-flutter packages get
+flutter pub get
 flutter run
 ```
 2. Add your API key generated from [lien](https://makersuite.google.com/app/apikey) in the configuration file ```lib/config```.
